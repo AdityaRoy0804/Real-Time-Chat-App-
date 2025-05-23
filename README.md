@@ -62,7 +62,7 @@ ChatApp/
 
 ### 1. **Clone the repository**
 
-git clone https://github.com/yourusername/ChatApp.git
+git clone (https://github.com/AdityaRoy0804/Real-Time-Chat-App-/tree/main)
 
 cd ChatApp
 
